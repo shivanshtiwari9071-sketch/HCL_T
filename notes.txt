@@ -1,3 +1,0 @@
-Day 3: collection and files.
-lists are ordered and mutable.
-tuple are ordered and immutable.
